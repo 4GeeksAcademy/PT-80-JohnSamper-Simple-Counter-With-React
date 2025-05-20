@@ -9,3 +9,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+#body{
+    background-image: url("https://removal.ai/wp-content/uploads/2021/05/image1.png");
+    background-image: no-repeat , cover ;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.bigcounter{
+    background-color: rgb(25, 22, 22);
+}
+.card-header{
+    background-color: rgb(25, 22, 22);
+}
